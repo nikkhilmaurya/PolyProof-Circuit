@@ -1,1 +1,0 @@
-# PolyProof-Circuit
